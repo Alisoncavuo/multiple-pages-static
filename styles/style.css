@@ -1,4 +1,22 @@
 h1 {
-  color: blueviolet;
-  background-color: cornflowerblue;
+  color: rgb(39, 116, 74);
+}
+
+p {
+  color: rgb(39, 116, 74);
+}
+.paragraph-homepage {
+  margin-left: 340px;
+  margin-right: 340px;
+}
+
+body {
+  background-color: rgb(169, 207, 108);
+  text-align: center;
+}
+
+img {
+  width: 50%;
+  display: block;
+  margin: 0 auto;
 }
