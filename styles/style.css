@@ -8,6 +8,7 @@ p {
 .paragraph-homepage {
   margin-left: 340px;
   margin-right: 340px;
+  margin-bottom: 30px;
 }
 
 body {
@@ -16,7 +17,22 @@ body {
 }
 
 img {
-  width: 50%;
+  width: 20%;
   display: block;
   margin: 0 auto;
+  border-radius: 10px;
+  margin-bottom: 30px;
+}
+
+.flex-links {
+  display: flex;
+  justify-content: center;
+  margin: 0 20px;
+}
+a {
+  color: rgb(39, 116, 74);
+}
+.email {
+  color: blue;
+  text-decoration: underline;
 }
