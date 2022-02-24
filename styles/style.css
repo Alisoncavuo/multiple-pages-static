@@ -27,7 +27,9 @@ img {
 .flex-links {
   display: flex;
   justify-content: center;
-  margin: 0 20px;
+  justify-content: space-evenly;
+  margin: 0 auto;
+  cursor: pointer;
 }
 a {
   color: rgb(39, 116, 74);
